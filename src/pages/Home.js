@@ -13,7 +13,7 @@ const Home = () => {
         <div className="pt-5 row">
             <div className="col-8 home d-flex row me-2">
                 <h1 className="align-self-end">Hello There! I'm Kevin S. Rodriguez</h1>
-                <p>I'm a full-stack web developer with experience in a variety of technologies including Javascript, HTML/CSS, Node, MySQL/NoSQL, MongoDB, React, GraphQL, and Express.</p>
+                <p>I'm a Full-Stack Web Developer with experience in a variety of technologies including Javascript, HTML/CSS, Node, MySQL/NoSQL, MongoDB, React, GraphQL, and Express.</p>
             </div>
             <div className="col-4 "><img className="headshot" src={headshot}></img></div>
         </div>

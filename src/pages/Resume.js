@@ -33,9 +33,10 @@ const Resume = () => {
           <li>Node</li>
           <li>Express</li>
           <li>Handlebars</li>
-          <li>MySQL</li>
+          <li>MySQL/NoSQL</li>
           <li>Sequelize</li>
-          {/* Add more proficiency items as needed */}
+          <li>HTML5/CSS3</li>
+          <li>React</li>
         </ul>
       </div>
     </div>
