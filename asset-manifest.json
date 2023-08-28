@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kevin-react-portfolio/static/css/main.2bb410f5.css",
+    "main.js": "/kevin-react-portfolio/static/js/main.9e79ccfa.js",
+    "static/js/787.60c056a1.chunk.js": "/kevin-react-portfolio/static/js/787.60c056a1.chunk.js",
+    "static/media/project1.png": "/kevin-react-portfolio/static/media/project1.0c9b3583a00b1fe3e0f1.png",
+    "static/media/ny.JPG": "/kevin-react-portfolio/static/media/ny.4c23bf5c48d048a07b9b.JPG",
+    "static/media/sc.png": "/kevin-react-portfolio/static/media/sc.1fa515b1bc5fcda244b3.png",
+    "static/media/weather.png": "/kevin-react-portfolio/static/media/weather.df0b54ae156903fa3a91.png",
+    "static/media/scc.png": "/kevin-react-portfolio/static/media/scc.26e81b5e0cb371f6b661.png",
+    "static/media/twitter.png": "/kevin-react-portfolio/static/media/twitter.f963dcac51d5020e10f3.png",
+    "index.html": "/kevin-react-portfolio/index.html",
+    "main.2bb410f5.css.map": "/kevin-react-portfolio/static/css/main.2bb410f5.css.map",
+    "main.9e79ccfa.js.map": "/kevin-react-portfolio/static/js/main.9e79ccfa.js.map",
+    "787.60c056a1.chunk.js.map": "/kevin-react-portfolio/static/js/787.60c056a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bb410f5.css",
+    "static/js/main.9e79ccfa.js"
+  ]
+}
