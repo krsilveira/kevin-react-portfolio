@@ -9,12 +9,12 @@ const Resume = () => {
   }
 
   const handleDownloadResume = () => {
-    const resumeUrl = process.env.PUBLIC_URL + '/Resume2023 copy.pdf'; // Update with the actual file path and name
+    const resumeUrl = process.env.PUBLIC_URL + '/technical_resume.pdf'; // Update with the actual file path and name
 
     // link element
     const link = document.createElement('a');
     link.href = resumeUrl;
-    link.download = 'Resume2023 copy.pdf'; // Specify the desired file name
+    link.download = '/technical_resume.pdf'; // Specify the desired file name
 
     // trigger the download
     document.body.appendChild(link);
