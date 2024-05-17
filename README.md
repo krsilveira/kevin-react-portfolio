@@ -53,6 +53,6 @@ Server is initialized from the CLI by:
 Thank you to my classmates/project group for helping me with errors 
 
 ## Review
-* The URL for the deployed site: (https://krsilveira.github.io/Challenge-20-/)
+* The URL for the deployed site: (https://krsilveira.github.io/kevin-react-portfolio/)
 
-* The URL for the GitHub repository: (https://github.com/krsilveira/Challenge-20-)
+* The URL for the GitHub repository: (https://github.com/krsilveira/kevin-react-portfolio)
